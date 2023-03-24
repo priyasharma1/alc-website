@@ -1,11 +1,12 @@
 enabled: true
 id: "portfolio"
+title: "What do we do"
+image: "/images/foundation.png"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: ""
+    title: "Spread awareness about Apache Software Foundation"
+    text: "Established in 1999, the all-volunteer Foundation oversees more than 350 leading Open Source projects, including Apache HTTP Server —the world's most popular server software."
 
     buttons: 
       - label: "See live"
@@ -14,10 +15,11 @@ content:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: ""
+    pretitle: ""
+    title: "Host local events for Open Source enthusiasts"
+    text: "We conduct a wide range of events like webinars, workshops and meetups for everyone including students, developers, and the business community.
+           Also providing a platform for different project committers from the same town/city to meet and exchange knowledge, thoughts, and ideas."
 
     buttons: 
       - label: "See live"
@@ -26,14 +28,14 @@ content:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: ""
+    pretitle: ""
+    title: "Talk about ASF, The Apache Way, and Apache projects"
+    text: "Learn about the structure, projects and how the ASF functions and manages its projects from community members"
 
     buttons: 
       - label: "See live"
         url: "#"
 
       - label: "Read more"
-        url: "#"
+        url: "https://projects.apache.org/projects.html"

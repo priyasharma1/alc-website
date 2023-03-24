@@ -2,26 +2,26 @@ enabled: true
 id: "services"
 
 content:
-  title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Past Events"
+  text: "We are committed to making you fall in love with open source and ASF as much as we have"
   cards:
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/event-1.png"
+      title: "Apache DevLake and Apache SeaTunnel Webinar"
+      text: ""
       button:
         label: "Learn more"
-        url: "#"
+        url: "https://cwiki.apache.org/confluence/display/COMDEV/Tech+Talk+on+BigData+Infrastructure+-+2"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/event-2.png"
+      title: "Apache DolphinSchedular Webinar"
+      text: ""
       button:
         label: "Learn more"
-        url: "#"
+        url: "https://cwiki.apache.org/confluence/display/COMDEV/Tech+Talk+on+BigData+Infrastructure+with+Apache+DolphinScheduler"
 
-    - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    - image: "images/event-3.png"
+      title: "GSoC with ASF"
+      text: ""
       button:
         label: "Learn more"
-        url: "#"
+        url: "https://cwiki.apache.org/confluence/display/COMDEV/GSoC+with+the+ASF"

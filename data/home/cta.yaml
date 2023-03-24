@@ -2,8 +2,10 @@ enabled: true
 id: "cta"
 
 content:
-  title: "Start your business now!"
-  image: "images/services-web-development.png"
+  title: "Need an ALC in your city?"
+  image: "images/ALC-Avatar.png"
+  width: "200px"
+  height: "200px"
   button:
-    label: "Let's talk"
-    url: "#"
+    label: "Know more"
+    url: "https://cwiki.apache.org/confluence/display/COMDEV/Apache+Local+Community+-+ALC#ApacheLocalCommunityALC-HowtoapplytosetupALCChapter"

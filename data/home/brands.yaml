@@ -2,10 +2,13 @@ enabled: true
 id: "brands"
 
 content:
-  title: "We work with customers brands and startups "
+  title: "Chapters"
+  text: "ALC comprises local groups of Apache (Open Source) enthusiasts, called an 'ALC Chapter'"
   items:
-    - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
+    - "images/beijing.png"
+    - "images/budapest.png"
+    - "images/indore.png"
+    - "images/lagos.png"
+    - "images/shenzhen.png"
+    - "images/warsaw.png"
+

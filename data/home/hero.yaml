@@ -2,14 +2,14 @@ enabled: true
 id: "hero"
 
 content:
-  title: "How to **level up** your business"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  title: "Apache Local Community"
+  text: ""
 
   buttonPrimary:
-    label: "How we work"
+    label: "Who are we"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
-    url: ""
+    label: "Apache Software Foundation"
+    url: "https://apache.org/"
 
