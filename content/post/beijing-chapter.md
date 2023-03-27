@@ -1,6 +1,6 @@
 +++
 author = ""
-title = "ALC Beijing"
+title = "Beijing Chapter"
 date = "2019-03-11"
 description = ""
 tags = [
@@ -15,7 +15,9 @@ categories = [
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
-ALC Beijing Chapter is lead by [Willem Jiang](ningjiang@apache.org), ASF Member, PMC Apache OFBiz and Roller.
+Beijing is the capital of the People's Republic of China. It is of the world's leading centers for culture, diplomacy and politics, business and economy, education, language, and science and technology.
+
+ALC Beijing Chapter is lead by [Willem Jiang](ningjiang@apache.org), PMC [Apache Incubator](https://incubator.apache.org/).
 
 The team has so far hosted several events including podcasts, webinars and in-person meetups.
 Checkout their most recent and upcoming events [here](https://cwiki.apache.org/confluence/display/COMDEV/ALC+Beijing+Events).

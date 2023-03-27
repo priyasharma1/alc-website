@@ -10,8 +10,8 @@ content:
     client: ""
     
   default:
-    image: "images/testimonials-awards.png"
-    text: "We will be back with an informative session soon!!"
+    image: ""
+    text: "We will be back with an informative event soon!!"
     client: "Team ALC"
 #
 #  list:
