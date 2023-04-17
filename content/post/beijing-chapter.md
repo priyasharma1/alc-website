@@ -25,3 +25,5 @@ Checkout their most recent and upcoming events [here](https://cwiki.apache.org/c
 To know more about the team visit [ALC Beijing Page](https://cwiki.apache.org/confluence/display/COMDEV/ALC+Beijing).
 
 Join our team today!
+
+{{< gallery-slider dir="/images/gallery/beijing" >}}

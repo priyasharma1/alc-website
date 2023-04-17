@@ -29,3 +29,5 @@ To know more about the team visit [ALC Indore Page](https://cwiki.apache.org/con
 
 Join our team today!
 
+{{< gallery-slider dir="/images/gallery/indore" >}}
+
