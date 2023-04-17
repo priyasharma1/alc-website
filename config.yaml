@@ -42,11 +42,11 @@ menus:
       weight: 2
 
     - name: "Past Events"
-      url: "/#"
+      url: "/#past-events"
       weight: 3
 
     - name: "Upcoming Events"
-      url: "/#"
+      url: "/#upcoming-events"
       weight: 4
 
     - name: "News"
